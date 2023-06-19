@@ -1,0 +1,7 @@
+ista_magration.magration:
+  path: '/ista-magration/magration'
+  defaults:
+    _title: 'Magration'
+    _form: 'Drupal\ista_magration\Form\MagrationForm'
+  requirements:
+    _permission: 'access content'
